@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+object-detection-crowdai
+project_video_images
+training_images
